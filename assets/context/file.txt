@@ -1,0 +1,8 @@
+The product name is MDS ( Master Data Structures). It consits of Java/ Python language lectures for benginners, 
+All Linear/ Non linear data Structures, more than 500 problems.. It can support 5 programming languages
+1. C
+2. C++
+3. Java
+4. Javascript
+5. Python
+\n
